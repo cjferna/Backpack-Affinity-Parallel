@@ -1,6 +1,6 @@
 # Parallelization of single-threaded algorithms
 
-Code for the individual classification for the [VI Spanish Parallel Programming Contest (2016)](http://luna.inf.um.es/2016/results.php).
+Code for the individual classification for the [VI Spanish Parallel Programming Contest (2016)](http://luna.inf.um.es/2016/results.php?lang=en).
 Code results from the competition by team can be seen in [records' table](http://luna.inf.um.es/2016/records.php).
 
 ## Problem description
